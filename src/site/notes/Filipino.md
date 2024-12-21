@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/filipino/"}
+{"dg-publish":true,"permalink":"/filipino/","tags":["gardenEntry"]}
 ---
 
 >[!Info]
